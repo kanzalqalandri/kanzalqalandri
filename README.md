@@ -2,7 +2,7 @@
 
 **DevOps / Platform Engineer** · CNCF Kubestronaut (CKA, CKAD, CKS, KCNA, KCSA)
 
-[kanzal.com](https://kanzal.com) · [LinkedIn](https://www.linkedin.com/in/kanzalqalandri/) · [X](https://twitter.com/KanzalQalandri) · [YouTube](https://www.youtube.com/@kanzalqalandri) · [Email](mailto:kanzalqalandri@gmail.com)
+[kanzal.com](https://kanzal.com) · [LinkedIn](https://www.linkedin.com/in/kanzalqalandri/) · [Email](mailto:kanzalqalandri@gmail.com)
 
 I'm a DevOps engineer at [PufferSoft](https://www.puffersoft.com/), where I build and run the Kubernetes platform behind [Apporto](https://www.apporto.com/), a browser-based virtual desktop and computer lab service. My work spans GitOps delivery, multi-cloud cluster operations, secrets management, stateful services on Kubernetes, and observability.
 
